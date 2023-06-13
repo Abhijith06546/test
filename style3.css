@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+   
+    width: 35%;
+    height: 500px;
+    border: 1px solid;
+}
+
+#d2{
+    margin-left: 600px;
+    margin-top: -500px;
+}
